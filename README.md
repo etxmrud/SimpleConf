@@ -1,0 +1,2 @@
+# SimpleConf
+A beginners autoconfig
